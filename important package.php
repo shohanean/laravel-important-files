@@ -7,5 +7,11 @@ https://erik.cat/projects/Charts/docs
 #pdf download
 https://github.com/barryvdh/laravel-dompdf
 
+#permission package
+https://github.com/spatie/laravel-permission
+
+#live chat with pusher(didn't work at first try)
+https://blog.pusher.com/how-to-build-a-laravel-chat-app-with-pusher/
+
 #export excel
 https://github.com/Maatwebsite/Laravel-Excel
