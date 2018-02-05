@@ -15,3 +15,6 @@ https://blog.pusher.com/how-to-build-a-laravel-chat-app-with-pusher/
 
 #export excel
 https://github.com/Maatwebsite/Laravel-Excel
+
+#convert normal sql to eloquent
+http://www.midnightcowboycoder.com/
