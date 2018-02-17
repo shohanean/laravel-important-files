@@ -13,6 +13,12 @@ https://github.com/spatie/laravel-permission
 #live chat with pusher(didn't work at first try)
 https://blog.pusher.com/how-to-build-a-laravel-chat-app-with-pusher/
 
+#breadcrumbs generator
+https://github.com/davejamesmiller/laravel-breadcrumbs
+
+#add make:view command at cli
+https://github.com/svenluijten/artisan-view
+
 #export excel
 https://github.com/Maatwebsite/Laravel-Excel
 
