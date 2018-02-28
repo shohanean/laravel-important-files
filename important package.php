@@ -19,6 +19,9 @@ https://github.com/davejamesmiller/laravel-breadcrumbs
 #add make:view command at cli
 https://github.com/svenluijten/artisan-view
 
+#add default gravater in user table
+https://github.com/danrovito/Laravel-Gravatar
+
 #export excel
 https://github.com/Maatwebsite/Laravel-Excel
 
