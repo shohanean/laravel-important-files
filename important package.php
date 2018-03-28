@@ -2,7 +2,7 @@
 http://image.intervention.io/
 
 #laravel charts
-https://erik.cat/projects/Charts/docs
+https://erik.cat/projects/charts
 
 #pdf download
 https://github.com/barryvdh/laravel-dompdf
@@ -28,5 +28,11 @@ https://github.com/Maatwebsite/Laravel-Excel
 #barcode/qr code generator
 https://github.com/milon/barcode
 
+#database backup for 5.5 or less
+https://github.com/spatie/laravel-backup
+
 #convert normal sql to eloquent
 http://www.midnightcowboycoder.com/
+
+#tons of package by spatie
+https://spatie.be/en/opensource/laravel
