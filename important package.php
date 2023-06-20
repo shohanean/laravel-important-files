@@ -36,3 +36,6 @@ https://github.com/spatie/laravel-backup
 
 #tons of package by spatie
 https://spatie.be/en/opensource/laravel
+
+#package for Bkash integration
+https://github.com/karim-007/laravel-bkash-tokenize

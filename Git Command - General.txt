@@ -1,3 +1,14 @@
+#clone a repository
+git clone link-of-the-repository
+
+#add all files to a repository
 git add .
+
+#commit all added files to a repository
 git commit -m "message-here"
+
+#push all files to a repository
 git push
+
+#pull all updated files from a repository
+git pull
